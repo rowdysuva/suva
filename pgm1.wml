@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<wml>
+    <card id="card1" title="WML Example">
+        <p>
+            Welcome to WML!
+        </p>
+        <p>
+            <img src="C:\Users\acer\Downloads\dahlia.jpg" alt="dahlia"/>
+        </p>
+        <p>
+            <a href="#card2">Next</a>
+        </p>
+    </card>
+
+    <card id="card2" title="Next Card">
+        <p>
+            This is another card.
+        </p>
+        <p>
+            <a href="#card1">Back</a>
+        </p>
+    </card>
+</wml>
